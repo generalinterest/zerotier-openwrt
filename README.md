@@ -30,6 +30,7 @@ Now start ZeroTier
 
 ## Compiling from Sources
 
+BRIAN was here
 To include ZeroTier One into your OpenWrt image or to create
 an .ipk package (equivalent to Debians .deb files),
 you have to build an OpenWrt image.
